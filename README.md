@@ -58,7 +58,7 @@
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" style="width: 32px; height: 32px; vertical-align: middle; margin: 2px;">
                 </a>
                 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="width: 32px; height: 32px; vertical-align: middle; margin: 2px;">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" style="width: 32px; height: 32px; vertical-align: middle; margin: 2px;">
                 </a>
                 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
                     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" style="width: 32px; height: 32px; vertical-align: middle; margin: 2px;">
@@ -70,7 +70,7 @@
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="width: 32px; height: 32px; vertical-align: middle; margin: 2px;">
                 </a>
                 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" style="width: 32px; height: 32px; vertical-align: middle; margin: 2px;">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" style="width: 32px; height: 32px; vertical-align: middle; margin: 2px;">
                 </a>
                 <a href="https://spring.io/" target="_blank" rel="noreferrer">
                     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" style="width: 32px; height: 32px; vertical-align: middle; margin: 2px;">
@@ -113,7 +113,7 @@
                     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" style="width: 32px; height: 32px; vertical-align: middle; margin: 2px;">
                 </a>
                 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" style="width: 32px; height: 32px; vertical-align: middle; margin: 2px;">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" style="width: 32px; height: 32px; vertical-align: middle; margin: 2px;">
                 </a>
                 <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
                     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" style="width: 32px; height: 32px; vertical-align: middle; margin: 2px;">
