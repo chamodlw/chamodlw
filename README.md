@@ -40,4 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamodlw&show_icons=true&locale=en" alt="chamodlw" /></p>
 
-<img align="center" src="https://github-readme-streak-stats.vercel.app/?user=chamodlw" alt="chamodlw" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamodlw&" alt="chamodlw" /></p>
