@@ -38,9 +38,9 @@
     <table style="width: 90%; border-collapse: collapse; margin: 0 auto; display: block; font-size: 14px;">
         <tr>
             <th style="border: 1px solid #ddd; padding: 4px; text-align: left; background-color: #f2f2f2; font-weight: bold;">Category</th>
-            <th style="border: 1px solid #ddd; padding: 4px; text-align: left; background-color: #f2f2f2; font-weight: bold;">Tools/Languages</th>
+            <th style="border: 1px solid #ddd; padding: 8px; text-align: left; background-color: #f2f2f2; font-weight: bold;">Tools/Languages</th>
             <th style="border: 1px solid #ddd; padding: 4px; text-align: left; background-color: #f2f2f2; font-weight: bold;">Category</th>
-            <th style="border: 1px solid #ddd; padding: 4px; text-align: left; background-color: #f2f2f2; font-weight: bold;">Tools/Languages</th>
+            <th style="border: 1px solid #ddd; padding: 8px; text-align: left; background-color: #f2f2f2; font-weight: bold;">Tools/Languages</th>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd; padding: 4px; text-align: left; vertical-align: top;">Frontend</td>
