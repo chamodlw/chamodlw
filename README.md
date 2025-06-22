@@ -33,8 +33,9 @@
 <a href="https://www.hackerrank.com/profile/chamodweere_HM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@chamodweere_hm" height="30" width="40" /></a>
 </p>
 
-<h3 align="left" style="margin-bottom: 10px;">Languages and Tools</h3>
-    <table style="width: 100%; border-collapse: collapse; margin-top: 10px; font-size: 14px;">
+<h3 align="center" style="margin-bottom: 10px;">Languages and Tools</h3>
+<div align="center">
+    <table style="width: 90%; border-collapse: collapse; margin: 0 auto; display: block; font-size: 14px;">
         <tr>
             <th style="border: 1px solid #ddd; padding: 4px; text-align: left; background-color: #f2f2f2; font-weight: bold;">Category</th>
             <th style="border: 1px solid #ddd; padding: 4px; text-align: left; background-color: #f2f2f2; font-weight: bold;">Tools/Languages</th>
@@ -171,6 +172,7 @@
             <td style="border: 1px solid #ddd; padding: 4px; text-align: left; vertical-align: top;"></td>
         </tr>
     </table>
+</div>
 
 <div align="center">
   <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamodlw&show_icons=true&locale=en&layout=compact" alt="chamodlw" />
