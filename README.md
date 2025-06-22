@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamodlw" alt="chamodlw" /></a> </p>
 
-- 🔭 I’m currently working on **Restaurant Management System**
+- 🔭 I’m currently working as a **SE-Mobile intern** at **Nimbus Venture (pvt) Ltd**.
 
-- 🌱 I’m currently learning **Micro Services , Spring boot**
+- 🌱 I’m currently learning **Flutter , Spring boot , React**
 
 - 👨‍💻 All of my projects are available at [https://chamodweerasinghe.vercel.app/](https://chamodweerasinghe.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@chamodweerasinghe8](https://medium.com/@chamodweerasinghe8)
 
-- 💬 Ask me about **MERN Teck Stack , SQL**
+- 💬 Ask me about **MERN Teck Stack , Flutter , SpringBoot , SQL**
 
 - 📫 How to reach me **chamodweerasinghe8@gmail.com**
 
