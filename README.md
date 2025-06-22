@@ -174,6 +174,8 @@
     </table>
 </div>
 
+<h3 align="center" style="margin-top: 10px;">My Dev Journey in Stats</h3>
+
 <div align="center">
   <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamodlw&show_icons=true&locale=en&layout=compact" alt="chamodlw" />
   <img height="185" src="https://github-readme-stats.vercel.app/api?username=chamodlw&show_icons=true&locale=en" alt="chamodlw" />
